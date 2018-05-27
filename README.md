@@ -22,3 +22,5 @@ Please visit [https://www.fczbl.vip/787.html](https://www.fczbl.vip/787.html) .
 
 - The Kratos documentation is licensed under the CC BY 4.0 License:
   - https://creativecommons.org/licenses/by/4.0
+##适用于Chromium和Firefox的SwitchyOmega 2.5.11
+https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.5.11/SwitchyOmega_Chromium.crx
